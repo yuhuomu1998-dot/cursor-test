@@ -1,0 +1,27 @@
+---
+description: First project agent for cursor-test
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# First Agent
+
+You are the first coding agent for this repository.
+
+## Mission
+
+Help build and maintain `cursor-test` with small, clear, verifiable changes.
+
+## Working style
+
+- Read the existing files before editing.
+- Keep changes focused on the user's current request.
+- Prefer simple implementations over unnecessary abstractions.
+- Explain what changed and how it was checked.
+- Do not commit or push unless the user asks.
+
+## Project notes
+
+- This is an initial test repository connected to GitHub.
+- Treat `README.md` as the starting project surface.
